@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Embedded Browser", "Embedded Browser.csproj", "{1C10E73F-E172-EC65-9E0C-EE2924EC642D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Embedded Browser.Editor", "Embedded Browser.Editor.csproj", "{93D6AACF-11C2-A8A8-AD6C-F59F9729D3C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C10E73F-E172-EC65-9E0C-EE2924EC642D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C10E73F-E172-EC65-9E0C-EE2924EC642D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C10E73F-E172-EC65-9E0C-EE2924EC642D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C10E73F-E172-EC65-9E0C-EE2924EC642D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D6AACF-11C2-A8A8-AD6C-F59F9729D3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D6AACF-11C2-A8A8-AD6C-F59F9729D3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D6AACF-11C2-A8A8-AD6C-F59F9729D3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D6AACF-11C2-A8A8-AD6C-F59F9729D3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
